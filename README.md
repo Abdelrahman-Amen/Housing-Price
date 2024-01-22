@@ -1,4 +1,4 @@
-# Housing Price Prediction
+# Housing Price Prediction 🏡
 
 Predict housing prices using machine learning.
 ## Algorithms Used
